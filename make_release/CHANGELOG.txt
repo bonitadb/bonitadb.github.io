@@ -1,0 +1,19 @@
+# Change Log
+All notable changes to this project will be documented in this file.
+
+If you find errors please report them to us at: [Report error]https://github.com/bonitadb/engine_bonitadb/issues/new
+
+## [0.1.1] - 2024-01-01
+### Fix
+Resolucion Fix Load File Data.
+
+## [0.1.0] - 2023-23-12
+### Added
+First release includes the following.
+Command menu:
+- ADD <Json>
+- LIST
+- DELETE <id>
+- VERSION
+- EXIT
+on the operations of the documents in a collection.
